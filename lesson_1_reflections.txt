@@ -1,0 +1,54 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    You only have to look at the hihglighted parts.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can recover from data loss, troubleshoot unexpected behavior more easily.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Tradeoff between storage requirements and flexibility. Google might save a less useful 
+    draft/test version of a new piece, but it will not forget to save from time to time. It 
+    might not be as efficient but it is more foolproof.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Different use cases.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can always go back to a older version that works.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Collaborative writing.
+
+How could having easy access to the entire history of a file make you a more efficient 
+programmer in the long term?
+
+    You don't have to save a lot of old versions manually. You can work together to create a 
+    common version. You save time because people can work in parallel.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you 
+do in Git, vs having versions automatically saved, like Google Docs does?
+
+    see above
+
+Why do you think some version control systems, like Git, allow saving multiple files in one 
+commit, while others, like Google Docs, treat each file separately?
+
+    use case.
+
+How can you use the commands git log and git diff to view the history of files?
+
